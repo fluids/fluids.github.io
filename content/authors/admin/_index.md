@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yunxiang Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yunxiang Chen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yunxiang
+last_name: Chen
 
 # Status emoji
 status:
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Mathematician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Pacific Northwest National Laboratory
+    url: www.yunxiangchen.org
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:cyxcfd@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/fluids
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -47,22 +47,24 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multiscale multiphsics modeling
+  - Computational fluid dynamics
+  - River 
+  - Flow battery
+  - Computer vision
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Civil Engineering
+    institution: Pennsylvania State University
+    date_start: 2014-08-15
+    date_end: 2018-08-15
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Naval Artchiecture and Ocean Engineering
+    institution: xx
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Naval Artchiecture and Ocean Engineering
+    institution: xx
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -84,8 +86,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: x
+    company_name: x
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -154,14 +156,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: xx
+    url: xx
     date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+    awarder: xx
+    icon: xx
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: xx
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
     awarder: edX
@@ -171,7 +173,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  - title: 'xx'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
     date: '2023-01-21'
@@ -183,4 +185,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yunxiang Chen is a mathematician in the Computational Mathematics group within Pacific Northwest National Laboratory’s (PNNL’s) Physical and Computational Sciences Directorate. Chen’s work at PNNL includes using computational, mathematical, and artificial intelligence (AI) tools to understand the hydro-biogeochemical processes in river ecosystems and the electrochemical processes in flow battery cells. 
+
+Before moving to PNNL, Chen worked on numerical modeling of subglacial hydrology beneath the Greenland Ice Sheet, hydraulics in mountain streams, and 3D mesh generation development for complex in-stream structures in civil engineering at Pennsylvania State University and studied computational fluid dynamics, naval engineering, and ocean engineering at Shanghai Jiao Tong University and Huazhong University of Science and Technology.
+
+Chen has a strong interest in using computational and computer vision AI methods to solve challenging problems related to water and fluid in Earth science and engineering. His career goal is to develop computational and observational capabilities to better predict dynamic changes in hydrology, clean energy, and engineering and to gain new knowledge of how Earth's water works and how humans can better utilize natural laws to create a better life. Thus far, Chen has been working on different research areas in hydrology, cryosphere, hydraulics, battery storage, mesh generation, drone-based remote sensing, and computer vision AI.
+
+Additional details about Chen’s work can be found at https://sites.google.com/view/yunxiangchen.
